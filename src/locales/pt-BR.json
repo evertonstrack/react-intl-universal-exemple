@@ -1,0 +1,8 @@
+{
+  "header": {
+    "title": "Olá {nome}, Bem-vindo ao React"
+  },
+  "home": {
+    "description": "Para começar, edite o arquivo <code>{arquivo}</code> e salve para atualizar."
+  }
+}
